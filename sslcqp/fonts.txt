@@ -1,0 +1,6 @@
+#css rules
+font-family: 'Abel', sans-serif;
+font-family: 'Noto Color Emoji', sans-serif;
+font-family: 'Noto Emoji', sans-serif;
+font-family: 'Sofia Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
